@@ -43,6 +43,6 @@ void loop() {
                  ">");
   cnt++;
 
-  delay(1000);        // delay in between reads for stability
+  delay(16000);        // delay in between reads for stability
 }
 
