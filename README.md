@@ -1,1 +1,1 @@
-# DMT_sensors_only
+# DMT Smart Stick
