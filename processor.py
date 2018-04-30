@@ -10,8 +10,6 @@ print("Serial port " + serial_port + " opened Baudrate " + str(baud_rate))
 start_marker = 60
 end_marker = 62
 
-print(ord(b'<'))
-
 def recieve_from_arduino():
     global start_marker, end_marker
 
